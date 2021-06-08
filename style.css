@@ -1,0 +1,15 @@
+div.todo {
+    text-align: center;
+}
+
+.inputbox {
+    width: 500px;
+}
+
+li.list {
+    text-align: left;
+}
+
+.blankline{
+    height: 20px;
+}
